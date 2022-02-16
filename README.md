@@ -4,4 +4,7 @@ Hello World! My name is ```print("Miguel")``` and i love Python
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m1gu3l0001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Favorite Languages:
+python.svg
+
 ```exit()```
