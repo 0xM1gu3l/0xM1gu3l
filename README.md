@@ -6,5 +6,15 @@ Hello World! My name is ```print("Miguel")``` and i love Python
 
 Favorite Languages:
 
+<div style="
+display: flex;
+">
+	<img src="./python.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  
+
 
 ```exit()```
