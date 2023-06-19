@@ -1,8 +1,8 @@
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=m1gu3l0001&show_icons=true&theme=tokyonight)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=0xm1gu3l&show_icons=true&theme=tokyonight)
 
 Hello World! My name is ```print("Miguel")``` and i love Python
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m1gu3l0001&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=0xm1gu3l&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Favorite Languages:
 
