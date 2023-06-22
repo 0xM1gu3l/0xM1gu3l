@@ -1,20 +1,11 @@
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=0xm1gu3l&show_icons=true&theme=tokyonight)
+Hi! My name is Miguel Caparróz, I'm a 14 years old hacker, Back-end developer and DevOps.  
+I like to make useless programs in python like https://github.com/0xM1gu3l/pynometer
 
-Hello World! My name is ```print("Miguel")``` and i love Python
+These are my status:
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=0xm1gu3l&show_icons=true&theme=tokyonight)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=0xm1gu3l&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-Favorite Languages:
+For now I'm studying to hack some company that has a Bug Bounty program for receive my first Bounty!  
 
-<div style="
-display: flex;
-">
-	<img src="./python.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-  
-
-
-```exit()```
+Yeah... That's all for now!
