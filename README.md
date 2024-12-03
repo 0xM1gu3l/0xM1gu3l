@@ -1,6 +1,7 @@
 Hi! My name is Miguel Caparróz, I'm a Ethical hacker, Back-end developer and DevOps.  
 Catholic 🇻🇦  
-I like to make useless programs in python like https://github.com/0xM1gu3l/pynometer
+I like to make useless programs in python like [Pynometer](https://github.com/0xM1gu3l/pynometer)  
+Or some useful tools like [NextJSManifestDumper](https://github.com/0xM1gu3l/NextJSManifestDumper)
 
 These are my status:  
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=0xm1gu3l&show_icons=true&theme=tokyonight)
